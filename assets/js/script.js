@@ -1,3 +1,5 @@
+// File forked from git profile: jcorozco81
+
 // Qs and As array
 var QsandAs = [
     {question: "What is Javascript?", options: ["A web browser", "A Programming Language", "A website", "A computer program"], answer: "op 2"},
